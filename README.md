@@ -63,6 +63,7 @@ Here are the tools and technologies I use:
 - Advanced **Laravel 11** features and ecosystem.
 - **Rust** and its applications in backend development with **Actix Web**.
 - Mastering **Linux scripting** and automation for system management.
+- Mastering **Dart and Flutter** for developing my mobile skill
 
 ### 👯 Collaboration
 I’m open to collaborating on:
