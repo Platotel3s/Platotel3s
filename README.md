@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Syaiful and i'm a DevOps Developer, from Indonesia.</h2>
+<h2 align="center">Hi 👋! My name is Syaiful and i'm a DevOps Developer</h2>
 
 Welcome to my GitHub profile! I'm **Syaiful Yudha Platoteles** (a.k.a. **Arisduy**), a passionate **Computer Science student** with a love for coding, continuous learning, and solving real-world problems. 🚀
 
