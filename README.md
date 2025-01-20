@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm **Syaiful Yudha Platoteles**, a passionate **C
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/eb/8b/5d/eb8b5d390fd5b4d7d65dd1ef3f3e886f.gif"  />
+<img align="right" height="200" width="150" src="https://github.com/Platotel3s/Platotel3s/blob/main/me.jpg"  />
 
 ###
 
