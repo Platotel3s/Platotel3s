@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm **Syaiful Yudha Platoteles**, a passionate **C
 Here are the tools and technologies I use:
 - **Frontend**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.
 - **Backend**: Laravel, PHP, Rust, Actix Web, Typescript.
-- **Other Tools**: MySQL, Bootstrap, Linux, Docker,Git.
+- **Other Tools**: MySQL, Bootstrap, Linux, Docker, Git, Kubernetes.
 
 ### 🐧 Linux Expertise
 - Proficient in **Linux system administration** with experience in Ubuntu, Arch, Ubuntu Budgie and Kubuntu.
