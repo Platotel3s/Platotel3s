@@ -89,6 +89,7 @@ Here are the tools and technologies I use:
 - **Rust** and its applications in backend development with **Actix Web**.
 - Mastering **Linux scripting** and automation for system management.
 - Mastering **Dart and Flutter** for developing my mobile skill
+- Mastering **Typescript and NestJS** for developing my backend skill. 
 
 ### 👯 Collaboration
 I’m open to collaborating on:
