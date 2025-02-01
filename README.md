@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I am a passionate **Computer Science student** wit
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Platotel3s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Platotel3s&theme=dark&hide_border=false) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Platotel3s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Platotel3s&theme=dark&hide_border=false) 
 <img align="right" height="150" src="https://i.pinimg.com/originals/4c/23/98/4c2398e6be397bb08b5cb70b2192d730.gif"  />
 ###
 
