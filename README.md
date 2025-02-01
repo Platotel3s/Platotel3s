@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Syaiful and i'm a DevOps Developer</h2>
 
-Welcome to my GitHub profile! I'm **Syaiful Yudha Platoteles**, a passionate **Computer Science student** with a love for coding, continuous learning, and solving real-world problems. 🚀
+Welcome to my GitHub profile! I am a passionate **Computer Science student** with a love for coding, continuous learning, and solving real-world problems. 🚀
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Platotel3s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
