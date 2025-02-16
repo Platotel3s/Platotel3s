@@ -70,6 +70,7 @@ Welcome to my GitHub profile! I am a passionate **Computer Science student** wit
 - 🌟 Building a **blog website for IMM (Muhammadiyah Student Association)** to create an engaging platform for students.
 - 🛠️ Developing an **inventory management system** with Laravel and Bootstrap.
 - 💻 Exploring **personal finance manager apps** to help users track expenses and plan for the future.
+- 🌟 "Currently, I am developing an educational application, namely an e-report card, which is being implemented in the world of Islamic boarding schools (pesantren).  
 
 ### 🛠️ Tech Stack
 Here are the tools and technologies I use:
