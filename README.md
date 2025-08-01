@@ -41,15 +41,16 @@ Welcome to my GitHub profile! I am a passionate **Computer Science student** wit
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 ## 🌱 What I’m Learning
-- Advanced **Laravel 11** features and ecosystem.
+- Advanced **Laravel 10,11,12** features and ecosystem.
 - **Rust** and its applications in backend development with **Actix Web**.
 - Mastering **Linux scripting** and automation for system management.
+- Mastering **PHP** for basic webs and apps with **Laravel**
 - Mastering **Dart and Flutter** for developing my mobile skills.
 - Mastering **TypeScript and NestJS** for enhancing my backend skills.
 
 ## 🔭 Current Projects
 - 🌟 Currently, I am focused on creating and developing an **electronic report card application** for an Islamic boarding school (pesantren) and a public school.
-- 🛠️ My side project is also a mobile and desktop-based **financial management application** for a company.
+- 🛠️ My side project is also a mobile and desktop-based **Mobile Banking** for a company.
 - 💻 I am also learning Linux kernel customization, and the distro I use is **Arch Linux**.
 - 🌟 Creating IoT innovations using electronic spare parts is something I often do when I feel bored or overwhelmed with my main projects.
 
