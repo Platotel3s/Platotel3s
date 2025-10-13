@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Syaiful and I'm a DevOps Developer</h2>
+<!-- <h2 align="center">Hi 👋! My name is Syaiful and I'm a DevOps Developer</h2>
 
 Welcome to my GitHub profile! I am a passionate **Computer Science student** with a love for coding, continuous learning, and solving real-world problems. 🚀
 
@@ -48,11 +48,6 @@ Welcome to my GitHub profile! I am a passionate **Computer Science student** wit
 - Mastering **Dart and Flutter** for developing my mobile skills.
 - Mastering **TypeScript and NestJS** for enhancing my backend skills.
 
-## 🔭 Current Projects
-- 🌟 Currently, I am focused on creating and developing an **electronic report card application** for an Islamic boarding school (pesantren) and a public school.
-- 🛠️ My side project is also a mobile and desktop-based **Mobile Banking** for a company.
-- 💻 I am also learning Linux kernel customization, and the distro I use is **Arch Linux**.
-- 🌟 Creating IoT innovations using electronic spare parts is something I often do when I feel bored or overwhelmed with my main projects.
 
 ## 👯 Collaboration
 I’m open to collaborating on:
@@ -60,22 +55,47 @@ I’m open to collaborating on:
 - Linux-based tools and automation scripts.
 - Projects with innovative and community-centered ideas, like the IMM blog platform.
 
-## 💬 Ask Me About
-- Setting up a **triple-boot system** (Kubuntu, Ubuntu, Ubuntu Budgie).
-- Building scalable backend solutions with **Actix Web** and **Rust**.
-- Designing modern, responsive UIs with **Tailwind CSS**.
-- **Linux administration and troubleshooting**.
 
 ## 📫 Let's Connect!
 - 📧 Email: syudha0408@gmail.com & splatoteles@gmail.com
 - 🌐 LinkedIn: [Syaiful Yudha Platoteles](https://www.linkedin.com/in/syaiful-yudha-platoteles-8332b92b3/)
 - 💡 Personal Website: Coming Soon!
 
-## ⚡ Fun Facts
-- I started studying Computer Science with no prior experience, but with determination and passion to grow.
-- I can also speak English and Arabic because I've been a student at Boarding School Of Daaruttaqwa, balancing tech and language education. 🕌✨
-- I enjoy chess and am passionate about creating fair **Swiss-style tournaments**.
 
 ---
 
-Thank you for visiting my profile! Feel free to check out my repositories and leave a ⭐ if you find something useful. Let’s create something amazing together! 😊
+Tha
+nk you for visiting my profile! Feel free to check out my repositories and leave a ⭐ if you find something useful. Let’s create something amazing together! 😊 -->
+
+<h2 align="center">Hi 👋! I'm Syaiful — a DevOps Developer</h2>
+
+I’m a Computer Science student passionate about coding, continuous learning, and solving real-world problems. 🚀
+
+📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Platotel3s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Platotel3s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Platotel3s&theme=dark&hide_border=false)
+
+## <img src="https://visitor-badge.laobi.icu/badge?page_id=Platotel3s.Platotel3s&" />
+
+## 🛠️ Tech Stack
+
+Frontend: JavaScript, React, HTML, CSS, Bootstrap, Tailwind, Flutter
+Backend: Laravel, PHP, Rust (Actix Web), TypeScript, Dart
+Database: MySQL, MariaDB, PostgreSQL, MongoDB
+DevOps & Tools: Git, Linux, Docker, Kubernetes
+
+## 🤝 Collaboration
+
+Open for collaboration in:
+
+Web & backend development (Laravel, Rust, JS)
+
+Linux-based tools & automation
+
+Community-focused projects
+
+📫 Connect With Me
+
+📧 syudha0408@gmail.com
