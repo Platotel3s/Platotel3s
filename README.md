@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning machine learning methods for detecting phishing link<br>🎯 Goals: Being a good and rich programmer <br>🎲 Fun fact: i wish i can give some inovations and work for Redhat Enterpise Linux</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning machine learning methods for detecting phishing link<br>🎯 Goals: Being a good and rich programmer <br>🎲 My Wish: can give some innovations and work for Redhat Enterpise Linux</p>
 
 ###
 
